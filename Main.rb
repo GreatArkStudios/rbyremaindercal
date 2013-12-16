@@ -8,4 +8,5 @@ puts "Your numbers are #{first_num} and #{second_num}."
 puts "Calculating remainder..."
 result = first_num%second_num
 puts "Your remainder is #{result}."
+puts "Would you like to see the calculations"
 
