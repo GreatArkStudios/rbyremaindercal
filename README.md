@@ -1,8 +1,8 @@
 Ruby Remainder Calculator 
 ===============
-A very simple Ruby on Rails remainder calculator, for beginners. 
+<H2>A very simple Ruby on Rails remainder calculator, for beginners. </h2>
 =
-This project was created as part of an imitative by Great Ark Studios to venture into open sourcing other languages, besides java. Currently ruby, HTML, and .NET projects are planned. 
+<P>This project was created as part of an imitative by Great Ark Studios to venture into open sourcing other languages, besides java. Currently ruby, HTML, and .NET projects are planned. </p>
 =
 Overview
 =
