@@ -12,5 +12,5 @@ puts "Would you like to see the calculations, type yes or no"
 Choice = gets.chomp
 if Choice == "yes"
 puts "#{first_num} was put through the mod operation with the number #{second_num}"
-puts "The specific code used to calculate the remainderr
+puts "The specific code used to calculate the remainder"
 end
