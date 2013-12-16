@@ -6,6 +6,6 @@ second_num = gets.chomp
 puts "Your second number is #{second_num}"
 puts "Your numbers are #{first_num} and #{second_num}."
 puts "Calculating remainder..."
-result = first_num%second_num"
+result = first_num%second_num
 puts "Your remainder is #{result}."
 
