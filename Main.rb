@@ -12,5 +12,9 @@ puts "Would you like to see the calculations, type yes or no"
 Choice = gets.chomp
 if Choice == "yes"
 puts "#{first_num} was put through the mod operation with the number #{second_num}"
-puts "The specific code used to calculate the remainder"
+puts "The specific code used to calculate the remainder was 'result = first_num%second_num'"
+puts "Thanks for using ruby remainder calculator version 1.0"
+end
+if Choice == "no"
+puts "Thanks for using ruby remainder calculator version 1.0"
 end
