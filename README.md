@@ -1,4 +1,4 @@
-IRuby Remainder Calculator 
+Ruby Remainder Calculator 
 ===============
 <H3>A very simple Ruby on Rails remainder calculator, for beginners. </h3>
 =
@@ -20,7 +20,7 @@ IRuby Remainder Calculator
 </p>
 =
 <H2>Documentation </h2>
-The puts operation prints a line of text on the console with a new line, the prints operation prints a line of text on the console with out a new line.
+<P>The puts operation prints a line of text on the console with a new line, the prints operation prints a line of text on the console with out a new line.</p>
 =
 The puts operation example:
 ```ruby 
@@ -32,6 +32,6 @@ Output: testing
 =
 <p>The prints operation example:</p>
 ```ruby
-prints "testing"
+print "testing"
 
 Output: testing =>cursor here.
