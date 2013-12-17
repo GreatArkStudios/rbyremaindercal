@@ -30,7 +30,7 @@ Output: testing
         =>cursor will be here.
 ```
 =
-<p>The prints operation example:
+<p>The prints operation example:</p>
 ```ruby
 prints "testing"
 
