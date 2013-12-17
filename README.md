@@ -20,6 +20,6 @@ Ruby Remainder Calculator
 </p>
 =
 <H2>Documentation </h2>
-The "```ruby puts" operation prints a line of text on the console with a new line, the prints operation prints a line of text on the console with out a new line.
+The ```ruby puts <p>operation prints a line of text on the console with a new line, the prints operation prints a line of text on the console with out a new line.</p>
 ```ruby 
 puts "testing"
