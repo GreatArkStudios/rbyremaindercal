@@ -11,10 +11,10 @@ Ruby Remainder Calculator
 
 <H4>Future Plans</h4> 
 <p>
-<ul>
-<ol>Comments/Documentation</ol>
-<ol>A alternate version with more complicated operations </ol>
-<ol>A if else version </ol>
-<ol>A graphical version</ol> 
-</ul>
+<Ol>
+<Li>Comments/Documentation</li>
+<Li>A alternate version with more complicated operations </ol>
+<LiA if else version </li>
+<Li>A graphical version</li> 
+</ol>
 </p>
