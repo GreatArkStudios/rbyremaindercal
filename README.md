@@ -13,7 +13,7 @@ Ruby Remainder Calculator
 <p>
 <Ol>
 <Li>Comments/Documentation</li>
-<Li>A alternate version with more complicated operations </ol>
+<Li>A alternate version with more complicated operations </li>
 <Li>A if else version </li>
 <Li>A graphical version</li> 
 </ol>
