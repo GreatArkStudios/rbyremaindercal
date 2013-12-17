@@ -19,5 +19,6 @@ Ruby Remainder Calculator
 </ol>
 </p>
 =
+<H2>Documentation </h2>
 ```ruby 
 puts "testing"
