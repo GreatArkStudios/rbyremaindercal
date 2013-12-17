@@ -18,3 +18,6 @@ Ruby Remainder Calculator
 <Li>A graphical version</li> 
 </ol>
 </p>
+=
+```ruby 
+puts "testing"
