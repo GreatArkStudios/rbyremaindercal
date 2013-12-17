@@ -28,6 +28,7 @@ puts "testing"
 
 Output: testing 
         =>cursor will be here.
+```
 =
 <p>The prints operation example:
 ```ruby
