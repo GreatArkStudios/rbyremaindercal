@@ -14,7 +14,7 @@ Ruby Remainder Calculator
 <Ol>
 <Li>Comments/Documentation</li>
 <Li>A alternate version with more complicated operations </li>
-<Li>A if else version </li>
+<Li>☑A if else version </li>
 <Li>A graphical version</li> 
 </ol>
 </p>
