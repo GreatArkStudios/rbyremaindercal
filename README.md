@@ -1,7 +1,7 @@
-Ruby Remainder Calculator 
+<H1>Ruby Calculator Bundle </h1>
 ![Rby](http://i.imgur.com/Z7WWtL0.jpg"rby")
 ===============
-<H3>A very simple Ruby on Rails remainder calculator, for beginners. </h3>
+<H3>A very simple Ruby on Rails remainder calculator, for beginners. Now with a advanced calculator. </h3>
 =
 <P>This project was created as part of an imitative by Great Ark Studios to venture into open sourcing other languages, besides java. Currently ruby, HTML, and .NET projects are planned. </p>
 =
