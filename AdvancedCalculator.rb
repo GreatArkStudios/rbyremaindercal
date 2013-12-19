@@ -6,4 +6,5 @@ if Operatitpe = "plus"
 puts "Type your first number to add"
 firstadmun = gets.chomp
 puts "Your first number is #{firstadmun}"
+puts "type a second number"
 
