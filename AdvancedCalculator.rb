@@ -3,4 +3,7 @@ puts"type plus for addition, sub for subtraction,multi for multiplication, div f
 puts "what operation would you like to do"
 Oper = gets.chomp
 If Oper = "plus"
-puts"
+puts "Type your first number to add"
+firstadmun = gets.chomp
+puts "Your first number is #{firstadmun}"
+
