@@ -13,6 +13,7 @@ Choice = gets.chomp
 if Choice == "yes"
 puts "#{first_num} was put through the mod operation with the number #{second_num}"
 puts "The specific code used to calculate the remainder was 'result = first_num%second_num'"
+Puts "This version used an if else statement to determine path the program took"
 puts "Thanks for using ruby remainder calculator version 1.0"
 else 
 puts "Thanks for using ruby remainder calculator version 1.0"
