@@ -11,11 +11,15 @@ Ruby Remainder Calculator
 
 <H4>Future Plans</h4> 
 <p>
+Status key:
+✅=Completed 
+🔜=Partially Complete
+❌=Not started 
 <Ol>
-<Li>Comments/Documentation</li>
-<Li>A alternate version with more complicated operations </li>
-<Li>☑A if else version </li>
-<Li>A graphical version</li> 
+<Li>🔜Comments/Documentation</li>
+<Li>🔜A alternate version with more complicated operations </li>
+<Li>✅A if else version </li>
+<Li>❌A graphical version</li> 
 </ol>
 </p>
 =
