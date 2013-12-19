@@ -1,4 +1,5 @@
 Ruby Remainder Calculator 
+![Rby](http://i.imgur.com/Z7WWtL0.jpg"rby")
 ===============
 <H3>A very simple Ruby on Rails remainder calculator, for beginners. </h3>
 =
