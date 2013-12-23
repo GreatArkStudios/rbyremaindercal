@@ -14,6 +14,7 @@ addresult=firstadmun+secondadmun
 puts "Your result  is #{addresult}"
 puts "Would you like to do another calculation" 
 turnpoint1 = gets.chomp
+end
 if turnpoint1 == "yes"
 puts "type plus for addition, sub for subtraction,multi for multiplication, div for division, and mod for mod function."
 puts "what operation would you like to do"
@@ -61,7 +62,7 @@ puts "Would you like to do another calculation"
 turnpoint1 = gets.chomp
 if turnpoint1 == "yes"
 puts "type plus for addition, sub for subtraction,multi for multiplication, div for division, and mod for mod function."
-puts "what operation would you like to do
+puts "what operation would you like to do"
 if Operatitpe = "mod"
 puts "Type your first number to add"
 firstadmun = gets.chomp
